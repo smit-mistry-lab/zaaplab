@@ -69,7 +69,7 @@ export default function Component() {
           <Feature />
 
           {/* Trust Section */}
-          <div className="mt-20 text-center relative z-20">
+          {/* <div className="mt-20 text-center relative z-20">
             <p className="text-sm text-zinc-500 mb-8">
               Trusted by 50,000+ businesses for innovative design and growth
             </p>
@@ -85,7 +85,7 @@ export default function Component() {
                 />
               ))}
             </div>
-          </div>
+          </div> */}
         </section>
       </div>
     </div>
